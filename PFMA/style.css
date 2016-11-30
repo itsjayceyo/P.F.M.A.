@@ -108,11 +108,41 @@ p::first-letter {
 
 @media only screen and (max-width: 500px) {
 	body{
-		padding-top: 5vh;
+		
+	}
+
+	html{
+
+		overflow-y: scroll;
 	}
 
 	h1{
 		padding: 0;
+	}
+
+	p{
+		font-size: 25px;
+		padding:0;
+	}
+
+	p::first-letter{
+		font-size: 40px;
+	}
+
+
+
+
+}
+
+
+@media only screen and (max-height: 400px) {
+	body{
+		padding-top:0vh;
+	}
+
+	html{
+
+		overflow-y: scroll;
 	}
 
 
