@@ -1,0 +1,29 @@
+[27-Nov-2016 19:46:18 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 81
+[27-Nov-2016 19:47:55 CST6CDT] PHP Fatal error:  Function name must be a string in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 81
+[27-Nov-2016 19:48:05 CST6CDT] PHP Fatal error:  Function name must be a string in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 81
+[27-Nov-2016 19:48:21 CST6CDT] PHP Fatal error:  Function name must be a string in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 81
+[27-Nov-2016 19:48:36 CST6CDT] PHP Fatal error:  Function name must be a string in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 81
+[28-Nov-2016 10:17:16 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 116
+[28-Nov-2016 10:17:18 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 116
+[28-Nov-2016 10:17:19 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 116
+[28-Nov-2016 10:17:19 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 116
+[28-Nov-2016 10:17:20 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 116
+[28-Nov-2016 10:17:20 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 116
+[28-Nov-2016 10:17:27 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 121
+[28-Nov-2016 10:17:28 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 121
+[28-Nov-2016 10:17:29 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 121
+[28-Nov-2016 10:17:29 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 121
+[28-Nov-2016 10:17:30 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 121
+[28-Nov-2016 21:34:52 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 121
+[28-Nov-2016 21:34:55 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 121
+[28-Nov-2016 21:37:41 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 119
+[28-Nov-2016 21:37:51 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 119
+[28-Nov-2016 21:37:53 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 119
+[28-Nov-2016 21:37:54 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 119
+[28-Nov-2016 21:39:26 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 119
+[28-Nov-2016 21:40:27 CST6CDT] PHP Fatal error:  Call to undefined function wordCallA() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 119
+[29-Nov-2016 16:40:32 CST6CDT] PHP Fatal error:  Call to undefined function toUpperCase() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 272
+[29-Nov-2016 16:40:37 CST6CDT] PHP Fatal error:  Call to undefined function toUpperCase() in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 272
+[29-Nov-2016 17:11:01 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 251
+[29-Nov-2016 17:11:06 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 251
+[29-Nov-2016 17:11:13 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/tacos812/public_html/jaysonis.me/PFMA/index.php on line 251

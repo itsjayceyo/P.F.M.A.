@@ -1,0 +1,121 @@
+
+
+
+
+
+body{
+	height:100vh;
+	padding-top:25vh;
+	margin:0;
+	width:100vw;
+
+	
+	
+}
+
+div{
+	text-align: center;
+}
+
+div#theButton{
+
+	margin-top:30px;
+}
+
+
+h1{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	font-style:italic;
+	font-weight: lighter;
+	margin:0;
+	padding-left:4.20em;
+}
+
+
+hr{
+	width: 60vw;
+}
+
+
+html{
+	background-image: url("bg.png");
+	background-position: right top;
+	background-repeat: no-repeat;
+
+	margin: 0em;
+	
+	height: 100vw;
+	width: 100vw;
+
+	overflow: hidden;
+}
+
+
+p{
+	display: inline-block;
+	font-family:"Ubuntu", sans-serif;
+	font-weight: bold;
+	font-size:25px;
+	padding: 1%;
+	text-shadow: 2px 2px #ffffff;
+}
+
+p::first-letter {
+	color: pink;
+	font-size: 69px;
+	text-decoration: underline;
+	text-shadow:none;
+}
+
+
+
+
+.theButton{
+	font-family: 'Lato', sans-serif;
+  	background: #9169bf;
+  	background-image: -webkit-linear-gradient(top, #9169bf, #e1e8f0);
+  	background-image: -moz-linear-gradient(top, #9169bf, #e1e8f0);
+  	background-image: -ms-linear-gradient(top, #9169bf, #e1e8f0);
+  	background-image: -o-linear-gradient(top, #9169bf, #e1e8f0);
+  	background-image: linear-gradient(to bottom, #9169bf, #e1e8f0);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+  	border-radius: 0px;
+    -webkit-box-shadow: 0px 1px 3px #666666;
+    -moz-box-shadow: 0px 1px 3px #666666;
+  	box-shadow: 0px 1px 3px #666666;
+  	color: #000000;
+  	font-size: 20px;
+  	padding: 10px 20px 10px 20px;
+  	border: solid #9169bf 4.20px;
+  	text-decoration: none; 
+
+}
+
+
+.theButton:hover {
+	background: #e1e8f0;
+	background-image: -webkit-linear-gradient(top, #e1e8f0, #9169bf);
+	background-image: -moz-linear-gradient(top, #e1e8f0, #9169bf);
+	background-image: -ms-linear-gradient(top, #e1e8f0, #9169bf);
+	background-image: -o-linear-gradient(top, #e1e8f0, #9169bf);
+	background-image: linear-gradient(to bottom, #e1e8f0, #9169bf);
+	text-decoration: none;
+}
+
+
+
+@media only screen and (max-width: 500px) {
+	body{
+		padding-top: 5vh;
+	}
+
+	h1{
+		padding: 0;
+	}
+
+
+
+
+}
